@@ -1,8 +1,0 @@
-C:\Users\simon\source\repos\MVCSETUP\DataLibrary\bin\Debug\DataLibrary.dll
-C:\Users\simon\source\repos\MVCSETUP\DataLibrary\bin\Debug\DataLibrary.pdb
-C:\Users\simon\source\repos\MVCSETUP\DataLibrary\bin\Debug\Dapper.dll
-C:\Users\simon\source\repos\MVCSETUP\DataLibrary\bin\Debug\Dapper.xml
-C:\Users\simon\source\repos\MVCSETUP\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
-C:\Users\simon\source\repos\MVCSETUP\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
-C:\Users\simon\source\repos\MVCSETUP\DataLibrary\obj\Debug\DataLibrary.dll
-C:\Users\simon\source\repos\MVCSETUP\DataLibrary\obj\Debug\DataLibrary.pdb
